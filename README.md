@@ -1,6 +1,6 @@
 # Keyboard Files
 
-Layouts, case files, etc for my Planck
+Layouts, case files, etc for my keyboards
 
 ## QMK
 
